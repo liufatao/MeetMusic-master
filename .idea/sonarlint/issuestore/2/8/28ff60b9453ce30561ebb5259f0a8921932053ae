@@ -1,0 +1,9 @@
+
+>squid:S1068"'Remove this unused "TAG" private field.(æÎÒÀ
+Dsquid:S1068"-Remove this unused "dbManager" private field.(ã€°
+.squid:S2176%"Rename this class.(Ûöáíıÿÿÿÿ
+bsquid:CommentedOutCodeLine+"<This block of commented-out lines of code should be removed.(¤á®
+bsquid:CommentedOutCodeLine4"<This block of commented-out lines of code should be removed.(ËÍ‡è
+gsquid:CommentedOutCodeLineN"<This block of commented-out lines of code should be removed.(·¨»Àşÿÿÿÿ
+bsquid:CommentedOutCodeLineP"<This block of commented-out lines of code should be removed.(®ƒ÷
+xsquid:S1488<"bImmediately return this expression instead of assigning it to the temporary variable "viewHolder".(Ûóşx

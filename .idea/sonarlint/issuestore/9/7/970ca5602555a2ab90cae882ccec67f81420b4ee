@@ -1,0 +1,16 @@
+
+V"squid:SwitchLastCaseIsDefaultCheckŒ""Add a default case to this switch.(ä°ïÚûÿÿÿÿ
+V"squid:SwitchLastCaseIsDefaultCheck°""Add a default case to this switch.(ä°ïÚûÿÿÿÿ
+rsquid:S14509"[Remove the "sideBarPreTv" field and declare it as a local variable in the relevant methods.(“²×ø
+`squid:S4042‰"IUse "java.nio.Files#delete" here for better messages on error conditions.(ŽÈín
+csquid:CommentedOutCodeLine¸"<This block of commented-out lines of code should be removed.(ÔÂ‰Î
+esquid:HiddenFieldCheckö"=Rename "dbManager" which hides the field declared at line 60.(âÅû…ùÿÿÿÿ
+`squid:HiddenFieldCheckù"8Rename "view" which hides the field declared at line 61.(†Øßùÿÿÿÿ
+"squid:ClassVariableVisibilityCheck:"_Make recyclerViewAdapter a static final constant or non-public and provide accessors if needed.(Ö³»«
+Jsquid:S1481i".Remove this unused "musicInfo" local variable.(ìÒÍýùÿÿÿÿ
+Bsquid:S00108•")Either remove or fill this block of code.(å¥ž‡
+Bsquid:S00108´")Either remove or fill this block of code.(å¥ž‡
+Ysquid:S1854i"=Remove this useless assignment to local variable "musicInfo".(ìÒÍýùÿÿÿÿ
+@squid:S1148Í"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+@squid:S1148×"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+Vsquid:S1155Ë">Use isEmpty() to check whether the collection is empty or not.(þ•¨Ì

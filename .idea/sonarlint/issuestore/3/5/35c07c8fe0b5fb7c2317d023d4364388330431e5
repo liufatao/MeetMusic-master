@@ -1,0 +1,16 @@
+
+U"squid:SwitchLastCaseIsDefaultCheck)""Add a default case to this switch.(üî¹üÿÿÿÿ
+^squid:S1192´"FDefine a constant instead of duplicating this literal "music" 4 times.(Îå¢Ú
+lsquid:S1192d"PDefine a constant instead of duplicating this literal "æ­Œæ›²ä¸å­˜åœ¨" 3 times.(ÄµËüÿÿÿÿ
+ˆsquid:S1319Õ"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ÿñóã
+‡squid:S1319Õ"oThe type of the "list" object should be an interface such as "List" rather than the implementation "ArrayList".(ÿñóã
+squid:S1319ï"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Ğ²Ø“ûÿÿÿÿ
+Œsquid:S1319ï"oThe type of the "list" object should be an interface such as "List" rather than the implementation "ArrayList".(Ğ²Ø“ûÿÿÿÿ
+squid:S1319Š"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(´’ùøÿÿÿÿ
+Œsquid:S1319Š"oThe type of the "list" object should be an interface such as "List" rather than the implementation "ArrayList".(´’ùøÿÿÿÿ
+P
+squid:S106å"9Replace this use of System.out or System.err by a logger.(ş»¿ç
+P
+squid:S106š"9Replace this use of System.out or System.err by a logger.(ş»¿ç
+tsquid:S1488ø"]Immediately return this expression instead of assigning it to the temporary variable "value".(Ñòw
+Qsquid:S1118!":Add a private constructor to hide the implicit public one.(Õ‡Í˜

@@ -1,0 +1,5 @@
+
+^squid:S1192,"GDefine a constant instead of duplicating this literal " text," 5 times.(¶Ä³¤
+msquid:S1192\"VDefine a constant instead of duplicating this literal "drop table if exists " 4 times.(®Û÷
+ssquid:S1192*"\Define a constant instead of duplicating this literal "create table if not exists " 4 times.(¤íİŸ
+fsquid:S11922"JDefine a constant instead of duplicating this literal " integer," 4 times.(¿À¦âşÿÿÿÿ

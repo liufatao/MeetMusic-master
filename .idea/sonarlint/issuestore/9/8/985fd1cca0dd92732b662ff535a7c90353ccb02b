@@ -1,0 +1,49 @@
+
+@squid:S1148ù"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+@squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+tsquid:S1192Í"WDefine a constant instead of duplicating this literal "PRAGMA foreign_keys=ON" 4 times.(…ÁÈ‰øÿÿÿÿ
+Osquid:S2589·"7Remove this expression which always evaluates to "true"(íÒÖŒ
+@squid:S1148¸"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+fsquid:S1192 "ODefine a constant instead of duplicating this literal "select * from " 6 times.(şÎ:
+Osquid:S2589¦"7Remove this expression which always evaluates to "true"(íÒÖŒ
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÜÙ³Ã
+hsquid:CommentedOutCodeLineô"<This block of commented-out lines of code should be removed.(€ìû§ÿÿÿÿÿ
+@squid:S1148á"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+vsquid:S2293ğ"YReplace the type specification in this constructor call with the diamond operator ("<>").(çÔ‹¶şÿÿÿÿ
+Osquid:S2589‹"7Remove this expression which always evaluates to "true"(íÒÖŒ
+Fsquid:S2140¹")Use "java.util.Random.nextInt()" instead.(¾ôÌ ûÿÿÿÿ
+squid:S1319‘"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(§°àËøÿÿÿÿ
+`squid:S2259@"DA "NullPointerException" could be thrown; "cursor" is nullable here.(ä²œ¼øÿÿÿÿ
+@squid:S1148ş"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+@squid:S1148á"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?squid:S1148i"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+@squid:S1148°"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+V"squid:SwitchLastCaseIsDefaultCheck¾""Add a default case to this switch.(ä°ïÚûÿÿÿÿ
+vsquid:S2293È"YReplace the type specification in this constructor call with the diamond operator ("<>").(é–ÍÛÿÿÿÿÿ
+V"squid:SwitchLastCaseIsDefaultCheckÛ""Add a default case to this switch.(ä°ïÚûÿÿÿÿ
+@squid:S1148ú"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+@squid:S1148¥"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+@squid:S1148Ä"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+hsquid:CommentedOutCodeLine‹"<This block of commented-out lines of code should be removed.(È‰°¥úÿÿÿÿ
+squid:S1319î"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Ñæ¡åüÿÿÿÿ
+Csquid:S1168“"+Return an empty collection instead of null.(¥¹ï
+csquid:S1301œ"KReplace this "switch" statement by "if" statements to increase readability.(·ûª
+asquid:S2259¤"DA "NullPointerException" could be thrown; "cursor" is nullable here.(ä²œ¼øÿÿÿÿ
+^squid:S2184‚"FCast one of the operands of this multiplication operation to a "long".(•×·“
+squid:S1319Ô"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ş®°€şÿÿÿÿ
+Nsquid:S2589C"7Remove this expression which always evaluates to "true"(íÒÖŒ
+_squid:S1192 "HDefine a constant instead of duplicating this literal " where " 5 times.(şÎ:
+@squid:S1148 "#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+^squid:S2184ƒ"FCast one of the operands of this multiplication operation to a "long".(ÔÌ—ˆ
+‘squid:S1319´"tThe type of the "musicList" object should be an interface such as "List" rather than the implementation "ArrayList".(ÖŸ¹¯øÿÿÿÿ
+?squid:S1148S"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+V"squid:SwitchLastCaseIsDefaultCheckâ""Add a default case to this switch.(·äİ’ÿÿÿÿÿ
+csquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÎáÚ“
+Œsquid:S1319­"oThe type of the "list" object should be an interface such as "List" rather than the implementation "ArrayList".(ÀîÊşÿÿÿÿ
+vsquid:S2293×"YReplace the type specification in this constructor call with the diamond operator ("<>").(çÔ‹¶şÿÿÿÿ
+U"squid:SwitchLastCaseIsDefaultCheck2""Add a default case to this switch.(™¶àØÿÿÿÿÿ
+qsquid:S2293–"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÌµË
+csquid:S1192:"GDefine a constant instead of duplicating this literal " = ? " 14 times.(©Ô™ôùÿÿÿÿ
+‘squid:S1319Ñ"tThe type of the "musicList" object should be an interface such as "List" rather than the implementation "ArrayList".(’µ©©øÿÿÿÿ
+@squid:S1148Ë"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+@squid:S1148©"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
