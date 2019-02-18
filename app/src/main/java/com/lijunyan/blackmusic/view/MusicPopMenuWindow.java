@@ -126,6 +126,7 @@ public class MusicPopMenuWindow extends PopupWindow{
 
         addLl.setOnClickListener(new View.OnClickListener() {
 
+            @Override
             public void onClick(View v) {
                 dismiss();
                 AddPlaylistWindow addPlaylistWindow = new AddPlaylistWindow(activity,musicInfo);
@@ -148,6 +149,7 @@ public class MusicPopMenuWindow extends PopupWindow{
 
         loveLl.setOnClickListener(new View.OnClickListener() {
 
+            @Override
             public void onClick(View v) {
                 MyMusicUtil.setMusicMylove(activity,musicInfo.getId());
                 dismiss();
@@ -170,6 +172,7 @@ public class MusicPopMenuWindow extends PopupWindow{
 
         deleteLl.setOnClickListener(new View.OnClickListener() {
 
+            @Override
             public void onClick(View v) {
                 deleteOperate(musicInfo,activity);
                 dismiss();
@@ -178,6 +181,7 @@ public class MusicPopMenuWindow extends PopupWindow{
 
         cancelLl.setOnClickListener(new View.OnClickListener() {
 
+            @Override
             public void onClick(View v) {
                 dismiss();
             }
